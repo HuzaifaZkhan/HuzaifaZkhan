@@ -1,40 +1,38 @@
-Huzaifa Zunnorain Khan
+# Hi, I'm Huzaifa Zunnorain Khan 👋
 
-Islamabad, Pakistan | he/him | huzaifa.khan1568@gmail.com
+**Blockchain Developer | Solidity & Smart Contracts | FinTech**
 
-Bio:
-I'm Huzaifa, a BS Financial Technology (FinTech) student at FAST National University of Computer and Emerging Sciences (FAST NUCES) in Islamabad, Pakistan. Driven by a passion for artificial intelligence (AI), machine learning (ML), and generative AI (GenAI), I'm actively honing my coding skills and exploring how these technologies can revolutionize the FinTech landscape.
+📍 Islamabad, Pakistan · 📧 huzaifa.khan1568@gmail.com
 
-Skills:
+I build decentralized applications and smart contracts on Ethereum from ERC-20 token economies and NFT systems to full dApp frontends. I'm a BS Financial Technology student at FAST-NUCES, combining a finance foundation with hands on Web3 development to build real world blockchain and fintech solutions.
 
-Intermediate Coding
-Photography
-Editing
-Management
-Writing
+Open to freelance and contract work in smart contract development, dApp building, and Web3 integration.
 
-Projects:
-Admission-Process-Module: (https://github.com/HuzaifaZkhan/Admission-Process-Module) - This project showcases my coding abilities and problem-solving skills.
+---
 
-Interests:
-Machine Learning
-Artificial Intelligence
-Generative AI
-Blockchain
-FinTech
+### 🛠️ Tech Stack
 
-Goals:
-Become a top FinTech expert, focusing on GenAI applications in finance.
-Explore the potential of AI and ML in the FinTech domain.
-Contribute to open-source projects and collaborate with the developer community.
+**Blockchain:** Solidity · Hardhat · Ethereum · ERC-20 · ERC-721 (NFTs) · Smart Contracts · Sepolia Testnet
+**Web3 Frontend:** Ethers.js · Web3.js · React · MetaMask integration
+**Backend:** Node.js · SQL · REST APIs
+**Languages:** Solidity · JavaScript · Python · C++
+**AI / ML:** Python · Scikit-learn · Random Forest · XGBoost
 
+---
 
-Looking Forward To:
-I'm eager to learn and grow as a developer. I'm excited to contribute to the open-source community and collaborate with like-minded individuals. Let's connect and explore the future of FinTech together!
+### 🚀 Featured Projects
 
-Feel free to reach out if you have any questions or projects in mind!
+- **[Rick & Morty Portal Explorer](https://github.com/HuzaifaZkhan/Rick-and-Morty-Portal-Explorer)** — A full Ethereum dApp game with a custom ERC-20 token economy, 20 explorable dimensions, and an NFT artifact system with rarity tiers. Built with Solidity, Hardhat, React & Web3.js.
+- **[FASTCoin Faucet](https://github.com/HuzaifaZkhan/FASTCoin-Faucet)** — A decentralized faucet dApp where users connect their wallet and claim ERC-20 tokens on the Sepolia testnet. Built with Solidity, Ethers.js & MetaMask.
+- **[Two-Pool Blockchain ML](https://github.com/HuzaifaZkhan/Two-pool-blockchain-ml)** — A two-pool blockchain system using ML-based urgency scoring for fair transaction prioritization in fintech.
+- **[CryptoTradePro](https://github.com/HuzaifaZkhan/CryptoTradePro)** — A crypto trading interface.
 
-<!---
-HuzaifaZkhan/HuzaifaZkhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🎯 Currently
+
+- Taking on freelance smart contract & dApp projects
+- Deepening my work in DeFi and tokenization
+- Open to collaborating on Web3 open-source projects
+
+📫 **Reach me:** huzaifa.khan1568@gmail.com
